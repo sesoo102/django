@@ -1,0 +1,11 @@
+# SSAFY 13기 Django 라이브 자료
+
+| 진행일 | 주제            |
+| ------ | --------------- |
+| 03/24 | Introduction of Django & Design Pattern |
+| 03/25 | Template & URLs |
+| 02/26 | Model |
+| 03/27 | ORM                                     |
+| 03/28 | ORM with View |
+| 03/31 | Form |
+
